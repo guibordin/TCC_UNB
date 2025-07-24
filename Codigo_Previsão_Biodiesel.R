@@ -3,8 +3,8 @@
 # Tema: Modelos Computacionais Aplicados à Decisão:
 #       Análise de Modelos Estatísticos na Produção de Biodiesel
 #
-# Autor: Guilherme Bordin
-# Orientador: Prof. Dr. André Luiz Marque Serrano
+# Autor: Guilherme Bordin de Meira e Silva
+# Orientador: Prof. Dr. André Luiz Marques Serrano
 # Versão do R: 4.3.3   |   Versão do RStudio: 2024.04.2+764
 # Data do script: 15/06/2025
 ################################################################################
